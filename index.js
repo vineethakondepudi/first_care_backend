@@ -4,7 +4,7 @@ const registrationRoute = require('./routing/router');
 
 // Import MongoDB connection
 require('./db/server');
-require('dotenv').config();
+
 
 
 
